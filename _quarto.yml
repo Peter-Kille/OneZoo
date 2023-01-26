@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "OneZoo"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Team"
+        contents:
+          - team.qmd
+      - section: "Project aplication"
+        contents:
+          - faqs.qmd
 
 format:
   html:
