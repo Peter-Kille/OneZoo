@@ -2,7 +2,7 @@
 title-block-style: default
 title-block-banner: darkred
 title: "2023 Project Call"
-subtitle: "CDT OneZoo FAQs for supervisors"
+subtitle: "CDT OneZoo FAQs for Supervisors"
 author: "Professor J. Cable"
 date: today
 affiliation: "Cardiff University"
@@ -10,17 +10,19 @@ affiliation: "Cardiff University"
 
 ![](images/Funders.png)UKRI Centre for Doctoral Training - CDT OneZoo
 
-**A NERC, BBSRC and MRC Centre for Doctoral Training on the Environmental Drivers of**
+# CDT OneZoo FAQs for supervisors
 
-+--------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+
-|        | Our transdisciplinary **OneZoo CDT will equip the next generation of world-leading scientists with the skills and insight necessary to tackle current and future zoonotic threats**. To design successful, innovative environmental prevention and control strategies, zoonotic drivers need to be understood through an integrated systems approach. Our students will build an in-depth understanding of the connectivity between key drivers of pathogen host shifts, spillover and onward transmission; exploring pathogen, environmental and human societal processes that can promote zoonotic disease and form the basis of integrated solutions.                                                                                                                                                                                                                  |        |
-|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |        |
-|        | Our award-winning educators and experts in zoonotic diseases and environmental sciences, from Cardiff University, Aberystwyth University, Queen's University Belfast, and the London School of Hygiene and Tropical Medicine, will work collectively, fostering creation of the CDT research community, and empowering students to develop their own training to acquire strong employability skills. Through structured transdisciplinary training and flipped learning, **Year Group Team Challenges,** guidance from multidisciplinary supervisory teams, and regular interactions with our 28 external partners (\>25% CASE and placements offered to all students), we will equip our OneZoo researchers with the skills to assess and develop One Health/Planetary Health strategies that secure optimal health and equity for people, animals and the environment. |        |
-|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |        |
-|        |             **This CDT offers an unprecedented level of diversity and transdisciplinarity.** Our pool of \>170 supervisors span disciplines from Anthropology to Zoology (A-Z), and offers both breadth and depth of knowledge in environmental, veterinary, biomedical, humanities and human clinical research to provide holistic training. Our diverse range of external partners (from NGOs to governmental bodies), provide the students with real world knowledge to complement their academic training.                                                                                                                                                                                                                                                                                                                                                            |        |
-+--------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+
-|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |        |
-+--------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+
+## A NERC, BBSRC and MRC Centre for Doctoral Training on the Environmental Drivers of
+
++-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+
+|     | Our transdisciplinary **OneZoo CDT will equip the next generation of world-leading scientists with the skills and insight necessary to tackle current and future zoonotic threats**. To design successful, innovative environmental prevention and control strategies, zoonotic drivers need to be understood through an integrated systems approach. Our students will build an in-depth understanding of the connectivity between key drivers of pathogen host shifts, spillover and onward transmission; exploring pathogen, environmental and human societal processes that can promote zoonotic disease and form the basis of integrated solutions.                                                                                                                                                                                                                  |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
+|     | Our award-winning educators and experts in zoonotic diseases and environmental sciences, from Cardiff University, Aberystwyth University, Queen's University Belfast, and the London School of Hygiene and Tropical Medicine, will work collectively, fostering creation of the CDT research community, and empowering students to develop their own training to acquire strong employability skills. Through structured transdisciplinary training and flipped learning, **Year Group Team Challenges,** guidance from multidisciplinary supervisory teams, and regular interactions with our 28 external partners (\>25% CASE and placements offered to all students), we will equip our OneZoo researchers with the skills to assess and develop One Health/Planetary Health strategies that secure optimal health and equity for people, animals and the environment. |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
+|     | **This CDT offers an unprecedented level of diversity and transdisciplinarity.** Our pool of \>170 supervisors span disciplines from Anthropology to Zoology (A-Z), and offers both breadth and depth of knowledge in environmental, veterinary, biomedical, humanities and human clinical research to provide holistic training. Our diverse range of external partners (from NGOs to governmental bodies), provide the students with real world knowledge to complement their academic training.                                                                                                                                                                                                                                                                                                                                                                        |     |
++-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
++-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+
 
 **Zoonoses**
 
@@ -30,15 +32,11 @@ Up to 20 studentships are available for October 2023. The NERC/BBSRC/MRC awarded
 
 # 2.HOW DO I SUBMIT A PROJECT PROPOSAL?
 
-Zoonoses project proposals must be submitted **by Noon on Friday 28th February 2023** using the online survey:
-
-[**https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2023**](https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2023)
+Zoonoses project proposals must be submitted **by Noon on Friday 28^th^ February 2023** using the online survey: [**https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2023**](https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2023)
 
 Once the application deadline has passed, a project selection panel comprised of at least one representative from each institution will first score then jointly scrutinise projects and select the top 40 for advertisement. **You will be informed of the outcome of this process by the end of March.**
 
-## Only proposals
-
-submitted via the online survey by the deadline will be considered. The online survey form cannot be shared, so we advise you to save a version of your answers e.g. in a Word doc, to facilitate collaboration with your team and also in the event the online survey crashes whilst you are completing it. You will be able to save and revise your proposal online before the deadline, but once it is submitted it cannot be amended. If you need to revise your form you must submit a new one and advise us to delete the original, but this cannot be done after the deadline has passed.
+Only proposals submitted via the online survey by the deadline will be considered. The online survey form cannot be shared, so we advise you to save a version of your answers e.g. in a Word doc, to facilitate collaboration with your team and also in the event the online survey crashes whilst you are completing it. You will be able to save and revise your proposal online before the deadline, but once it is submitted it cannot be amended. If you need to revise your form you must submit a new one and advise us to delete the original, but this cannot be done after the deadline has passed.
 
 Please note that after the selection process has taken place, **there will be no appeals against decisions**. Please therefore familiarise yourself with the aims and themes of the CDT and **ensure you read this FAQ document before completing your proposal.**
 
@@ -48,89 +46,83 @@ Please note that after the selection process has taken place, **there will be no
 
 **(Timetable is very preliminary and subject to change. Supervisor actions in bold)**
 
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | ASAP                            |       | Call for Projects opens                                                                                          |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | **12:00pm (noon) 9 March 2023** |       | **Supervisor project proposal submission deadline**                                                              |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       | **Supervisors notified of CDT panel selection of projects**                                                      |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | March                           |       | Projects advertised on CDT website                                                                               |       |
-|       |                                 |       |                                                                                                                  |       |
-|       |                                 |       | Advertise externally on FindaPhD.com                                                                             |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | 1 April 2023                    |       | Student applications open                                                                                        |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | 1 May 2023                      |       | Student applications close                                                                                       |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | May 2023                        |       | Applications forwarded to Lead Supervisors. Supervisors select which of their candidates they wish to interview. |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | **May 2023**                    |       | **Applicant/supervisor interviews**                                                                              |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | **End May 2023**                |       | **Supervisor submits report to CDT outlining first choice and reserve choice candidates**                        |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | June 2023                       |       | Management Board scores shortlist of preferred candidates                                                        |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | June 2023                       |       | Interviewees notified                                                                                            |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | Mid June 2023                   |       | Selection board interviews candidates                                                                            |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       | UKRI offer acceptance deadline.                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | 1 October 2023                  |       | Official funding start date                                                                                      |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                 |       |                                                                                                                  |       |
-+-------+---------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | ASAP                           |       | Call for Projects opens                                                                                          |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | **12:00pm (noon) 28 Feb 2023** |       | **Supervisor project proposal submission deadline**                                                              |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       | **Supervisors notified of CDT panel selection of projects**                                                      |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | March 2023                     |       | Projects advertised on CDT website                                                                               |       |
+|       |                                |       |                                                                                                                  |       |
+|       |                                |       | Advertise externally on FindaPhD.com                                                                             |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | March 2023                     |       | Student applications open                                                                                        |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | 1 May 2023                     |       | Student applications close                                                                                       |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | May 2023                       |       | Applications forwarded to Lead Supervisors. Supervisors select which of their candidates they wish to interview. |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | **May 2023**                   |       | **Applicant/supervisor interviews**                                                                              |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | **End May 2023**               |       | **Supervisor submits report to CDT outlining first choice and reserve choice candidates**                        |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | June 2023                      |       | Management Board scores shortlist of preferred candidates                                                        |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | June 2023                      |       | Interviewees notified                                                                                            |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | Mid June 2023                  |       | Selection board interviews candidates                                                                            |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       | UKRI offer acceptance deadline.                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | 1 October 2023                 |       | Official funding start date                                                                                      |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 
-# 4. DO I HAVE TO APPLY THIS YEAR? CAN I APPLY EVERY YEAR?
+# 4.DO I HAVE TO APPLY THIS YEAR? CAN I APPLY EVERY YEAR?
 
-The CDT is funded for three consecutive intakes, this is the first intake. Depending on the number of projects submitted, we might limit the number of projects that can be submitted by lead supervisors in Years two and three. Supervisors can be co-supervisors on an unlimited number of projects in all years.
+\*\* The CDT is funded for three consecutive intakes, this is the first intake. Depending on the number of projects submitted, we might limit the number of projects that can be submitted by lead supervisors in Years two and three. Supervisors can be co-supervisors on an unlimited number of projects in all years.
 
-#5.IF UNSUCESSFUL, WILL I BE ALLOWED TO SUBMIT THE SAME PROJECT PROPOSAL NEXT YEAR?
+# 5.IF UNSUCESSFUL, WILL I BE ALLOWED TO SUBMIT THE SAME PROJECT PROPOSAL NEXT YEAR?
 
 Yes. If you were unsuccessful, you might consider reviewing the selection criteria to strengthen your project, to assess how it fits the themes of the CDT, and consider how to improve the advertising text/title to be more attractive.
 
-# 6.DOES THE PROJECT HAVE TO FIT INTO ONE OF THE THREE THEMES?\*\*
+# 6.DOES THE PROJECT HAVE TO FIT INTO ONE OF THE THREE THEMES?
 
 In line with UKRI requirements for the CDT, all projects must demonstrate a strong ***environmental*** component and should address at least one of these three key challenges in identifying environmental drivers of, and solutions to, infectious diseases:
 
-## a) Disease Preparedness:
+a)  **Disease Preparedness:** detection, environmental monitoring (novel sampling approaches; innovative technologies/diagnostics), horizon scanning and risk assessment;
 
-Detection, environmental monitoring (novel sampling approaches; innovative technologies/diagnostics), horizon scanning and risk assessment;
+b)  **Disease Transmission**: pathways and connectivity of drivers of infection, disease emergence and spread (the effects of anthropogenic and environmental change, evolution, human and animal movement patterns, socioeconomic and political drivers);
 
-## b) Disease Transmission:
-
-Pathways and connectivity of drivers of infection, disease emergence and spread (the effects of anthropogenic and environmental change, evolution, human and animal movement patterns, socioeconomic and political drivers);
-
-## c) Disease control:
-
-Integrated solutions for sustainable management and mitigation of zoonoses (environmental, socio-political and therapeutic barriers to transmission, including changing habitat, landuse and animal practices).
+c)  **Disease Control**: integrated solutions for sustainable management and mitigation of zoonoses (environmental, socio-political and therapeutic barriers to transmission, including changing habitat, landuse and animal practices).
 
 Interdisciplinary research is [strongly]{.underline} encouraged.
 
@@ -144,44 +136,39 @@ The majority of communications will be directed via the lead supervisor, who wil
 
 # 9. SHOULD PROJECTS HAVE SUPERVISORS FROM MORE THAN ONE CDT CORE PARTNER?
 
-Yes. The CDT aims to show what can be achieved by harnessing the combined power of four research intensive universities. Supervisors are strongly encouraged to seek out partners for training or experience in other GW4 HEIs and include them as co-supervisors. We have given an undertaking that **100% of projects will be across two or more partners at Cardiff, Aberystwyth, Queen's University Belfast and LSHTM.**
+Yes. The CDT aims to show what can be achieved by harnessing the combined power of four research intensive universities. We have given an undertaking that **100% of projects will be across two or more partners at Cardiff, Aberystwyth, Queen's University Belfast and LSHTM.**
 
-## Collaboration
+Collaboration can mean access to laboratories, specific training, etc., not just co-supervision. However, experience has shown that one of the most effective ways of building collaboration and cohesion across a network and adding extra value to the student experience is through co-supervision.
 
-can mean access to laboratories, specific training, etc., not just co-supervision. However, experience has shown that one of the most effective ways of building collaboration and cohesion across a network and adding extra value to the student experience is through co-supervision.
-
-# 10. SHOULD NON-ACADEMIC PARTNERS/STAKEHOLDERS BE INVOLVED?\*\*
+# 10. SHOULD NON-ACADEMIC PARTNERS/STAKEHOLDERS BE INVOLVED?
 
 Yes, and this is compulsory. The CDT seeks to have **100% co-designed projects with end-users**, and **each supervisory team should involve a stakeholder representative**. In some cases, the CDT will consider instead an overseas academic if these are in an ODA country. A stakeholder letter of support must be submitted with your project proposal (email this to [OneZoo\@cardiff.ac.uk](mailto:OneZoo@cardiff.ac.uk)).
 
-# 11.WHAT TYPE OF STAKEHOLDER ENGAGEMENT ARE YOU SEEKING?
+# 11. WHAT TYPE OF STAKEHOLDER ENGAGEMENT ARE YOU SEEKING?
 
 Other than the compulsory supervision role, the CDT expects stakeholder partners to be involved in a number of ways, such as:
 
--   Student supervision and management,
--   Access to data, software, resources, equipment, materials or facilities,
--   Hosting of the student in the organisation,
--   A financial contribution: e.g. a contribution towards the student's research costs (a Research Support Training Grant) e.g. for fieldwork / specialist training needed for the particular project etc.
+*Student supervision and management,* Access to data, software, resources, equipment, materials or facilities, *Hosting of the student in the organisation,* A financial contribution: e.g. a contribution towards the student's research costs (a Research Support Training Grant) e.g. for fieldwork / specialist training needed for the particular project etc.
 
-***High quality, high engagement stakeholder project proposals will carry premium in the selection process.***
+*High quality, high engagement stakeholder project proposals will carry premium in the selection process.*
 
-# 12. CASE STUDENTSHIPS WILL BE GIVEN PRIORITY; A CASE STUDENTSHIP INCLUDES A MINIMUM CONTRIBUTION OF £1,000 PER ANNUM TO THE STUDENT'S RTSG AND A MINIMUM THREE MONTH PLACEMENT (UP TO 18 MONTHS) WHICH CAN BE SPREAD OVER THE PROJECT LIFETIME.
+# 12. CASE STUDENTSHIPS WILL BE GIVEN PRIORITY
 
-CASE studentships give students access to training, facilities and expertise not available in an academic setting.
+**A CASE STUDENTSHIP INCLUDES A MINIMUM CONTRIBUTION OF £1,000 PER ANNUM TO THE STUDENT'S RTSG AND A MINIMUM THREE MONTH PLACEMENT (UP TO 18 MONTHS) WHICH CAN BE SPREAD OVER THE PROJECT LIFETIME.**
 
-The CASE partner can come from the public, private or third sector. However, organisations eligible to receive UKRI research funding are not allowed to be a CASE partner.
+CASE studentships give students access to training, facilities and expertise not available in an academic setting.The CASE partner can come from the public, private or third sector. However, organisations eligible to receive UKRI research funding are not allowed to be a CASE partner.
 
 **There is also an expectation that the partner will cover a student's out-of-pocket expenses, such as travel to the site, and provide access to the resources, facilities and equipment necessary to carry out the project.**
 
-At Annex A is a template for a letter of support from stakeholders, which is required as part of your application, and should be submitted to [OneZoo\@cardiff.ac.uk](mailto:OneZoo@cardiff.ac.uk) by the same deadline as the online application.
+At [Annex A](faqs_annex_a.qmd) is a template for a letter of support from stakeholders, which is required as part of your application, and should be submitted to [OneZoo\@cardiff.ac.uk](mailto:OneZoo@cardiff.ac.uk) by the same deadline as the online application.
 
-At Annex B is a template for a CASE letter of support from stakeholders along with detailed information on what is a CASE studentship.
+At [Annex B](faqs_annex_b.qmd) is a template for a CASE letter of support from stakeholders along with detailed information on what is a CASE studentship.
 
 # 13. WHAT IS COVERED BY THE STUDENTSHIP?
 
 Most of the studentships will be of 3.5 years' duration. Our award has been calculated on this basis. Applications for a longer duration will be considered on a case-by-case basis, as the grant allows for flexibility.
 
-The elements of the studentship are: fees (UK/EU rate); UKRI national minimum stipend; and RTSG 
+The elements of the studentship are: fees (UK/EU rate); UKRI national minimum stipend; and RTSG.
 
 Please note: the funding is linked to the successful student. If the student withdraws at any stage, the funding will be re-allocated by the Management Board to the next best ranked student on the list. Therefore, supervisors will not automatically be able to re-advertise their project for a new student.
 
@@ -191,13 +178,13 @@ Each studentship will include an RTSG ([Research Training Support Grant]{.underl
 
 As set out in the bid, the OneZoo CDT is offering 3.5 year studentships, with the first 12 months involving cohort training. The CDT will therefore retain and centrally manage £2,750 of each student's RTSG to help cover their cohort training expenses.
 
-The remaining fund of £8,250 per student is a contribution towards the research, training and development costs of the student, *over the lifetime of the project*. Project proposals should outline how the research costs will be met whilst leaving sufficient funds for activities such as conference attendance, overseas opportunities, workshops, advanced training and travel to development opportunities etc. *Note that there are specific rules governing the use of RTSG funds, which cannot be used to purchase consumables or equipment which would normally be expected to be provided by the institution.* The RTSG can be used for the purchase of laptops, or as a contribution towards the cost of a laptop, if standard provision is not considered adequate*.*
+The remaining fund of £8,250 per student is a contribution towards the research, training and development costs of the student, *over the lifetime of the project*. Project proposals should outline how the research costs will be met whilst leaving sufficient funds for activities such as conference attendance, overseas opportunities, workshops, advanced training and travel to development opportunities etc.
 
+***Note that there are specific rules governing the use of RTSG funds, which cannot be used to purchase consumables or equipment which would normally be expected to be provided by the institution.*** **The RTSG can be used for the purchase of laptops, or as a contribution towards the cost of a laptop, if standard provision is not considered adequate.**\*
 
 # 15. WHEN STUDENTS UNDERTAKE RESEARCH AT DIFFERENT INSTITUTIONS, HOW WILL THEIR RESEARCH BE FUNDED?
 
-The RTSG and any supplement awarded, will be made available to the student and lead supervisor via the host institution. It is the responsibility of the supervisory team to manage the funds across institutions, to ensure costs are within budget. Reimbursement of RTSG expenditure is made annually at the year-end; host institutions/schools claim actual expenditure in arrears from Cardiff University.  Co-supervisory institutions will not receive a portion of tuition fees.
-
+The RTSG and any supplement awarded, will be made available to the student and lead supervisor via the host institution. It is the responsibility of the supervisory team to manage the funds across institutions, to ensure costs are within budget. Reimbursement of RTSG expenditure is made annually at the year-end; host institutions/schools claim actual expenditure in arrears from Cardiff University. Co-supervisory institutions will not receive a portion of tuition fees.
 
 # 16. WHAT TRAINING WILL THE CDT PROVIDE?
 
@@ -207,12 +194,11 @@ Please note that one of the main differences between a studentship in a CDT or D
 
 # 17. CAN PROJECTS INCLUDE A MASTERS COURSE IN YEAR ONE E.G. 1+3?
 
-
 We are not running a 1+3 programme; however, if relevant, the student can undertake Masters modules.
 
 # 18. SHOULD PROPOSALS INCLUDE FULL COSTINGS?
 
-We do not need a formal budget for reviewing projects; however, your own institution may require this to ensure the project will not be underfunded. Proposals need to outline anticipated highs costs and potential funding sources on the Supervisor Project Proposal Form. By submitting a project, you are undertaking to underwrite high project costs that are not covered by the studentship grant, hence a requirement to confirm institutional approval.
+We do not need a formal budget for reviewing projects; however, your own institution may require this to ensure the project will not be underfunded. Proposals need to outline anticipated highs costs and potential funding sources on the Supervisor Project Proposal Form. By submitting a project, you areundertaking to underwrite high project costs that are not covered by the studentship grant, hence a requirement to confirm institutional approval.
 
 # 19. HOW WILL PROJECTS BE SCREENED?
 
@@ -220,13 +206,7 @@ Project proposals should be approved at institutional level **before** being sub
 
 Project screening will be made on the basis of scientific and training excellence, and alignment with the strategic priorities of the CDT and will be scored against the following criteria:
 
-* 1.The suitability of the OneZoo supervisory team namely as regards track record and access to facilities;
-* 2.The suitability of the research project in terms of:
-  + 2.1. fit to the OneZoo priority areas
-  + 2.2. clear question defined
-  + 2.3. originality and/or significance
-  + 2.4. feasibility
-* 3. Your consideration of EDI for the student, supervisory team and the research discipline.
+1.The suitability of the OneZoo supervisory team namely as regards track record and access to facilities; 2. The suitability of the research project in terms of: 2.1 fit to the OneZoo priority areas 2.2. clear question defined 2.3. originality and/or significance 2.4. feasibility 3.Your consideration of EDI for the student, supervisory team and the research discipline.
 
 In preparing project proposals, supervisors may also want to make reference to the following:
 
@@ -236,14 +216,13 @@ In preparing project proposals, supervisors may also want to make reference to t
 
 *UKRI Call for this bid: <https://www.ukri.org/opportunity/centre-for-doctoral-training-environmental-solutions-to-zoonoses/>*
 
-# 20. IS IT IMPORTANT FOR THE SUPERVISORS TO HAVE A RECORD OF UKRI FUNDING?*
+# 20. IS IT IMPORTANT FOR THE SUPERVISORS TO HAVE A RECORD OF UKRI FUNDING?
 
 The record of the proposed supervisory team in attracting research funding will be taken as evidence of a high-quality research environment in which the student will work. There is no requirement that the funding is UKRI, but if there are no UKRI grants then the supervisors will want to highlight other funding.
 
 # 21. HOW WILL PROJECTS BE ADVERTISED?
 
-The lead supervisor will be informed if their project has been approved. Successful project proposals will be advertised on the OneZoo CDT website collectively, and a generic advert placed on FindaPhD.com. Each partner will advertise on their own website and via other advertising channels, e.g. specific project adverts on FindAPhD via their institutional licence. Standard text will be provided for applicant guidance, including terms and conditions.
-
+The lead supervisor will be informed if their project has been approved.Successful project proposals will be advertised on the OneZoo CDT website collectively, and a generic advert placed on FindaPhD.com. Each partner will advertise on their own website and via other advertising channels, e.g. specific project adverts on FindAPhD via their institutional licence. Standard text will be provided for applicant guidance, including terms and conditions.
 
 # 22. WHAT ARE THE STUDENT ELIGIBILITY CRITERIA?
 
@@ -257,18 +236,26 @@ Students will need to meet the English Language requirements of their home insti
 
 The CDT application process aims to select the best applicants and will make an 'offer of funding'. The host institution will be responsible for checking eligibility and making an 'offer to study'. The process for applying will be made clear on the advertisements.
 
-Applicants will apply via a centralised online application form direct to the CDT. After the closing deadline all application forms will be forwarded to the Lead Supervisor of the projects to which the student applied, for shortlisting.
+Applicants will apply via a centralised online application form direct to the CDT (OneZoo.uk). After the closing deadline all application forms will be forwarded to the Lead Supervisor of the projects to which the student applied, for shortlisting.
 
-The application to the CDT is for an 'offer of funding'. In addition, students must also apply for an 'offer to study' (i.e. for a 'place' at or admission to the 'home' university of their primary academic supervisor, either directly or through the University's Online application form, dependent on institutional practices). Note that for Aberystwyth, Queen's Mary Belfast and LSHTM applicants this is ONLY necessary if the student is made an offer of funding (awarded a studentship); however, for Cardiff projects this is done before shortlisting by the CDT, and Cardiff applicants will be advised of this *after* they have submitted their CDT application form.[\[JC1\]](#_msocom_1).
+The application to the CDT is for an 'offer of funding'. In addition, students must apply simultaneously for an 'offer to study' (i.e. for a 'place' at or admission to the 'home' university of their primary academic supervisor, through the University's Online application form, dependent on institutional practices).
+
+Cardiff University: <https://www.cardiff.ac.uk/study/postgraduate/research/programmes/programme/biosciences-phd-mphil-md>
+
+Aberystwyth: [https://courses.aber.ac.uk/postgraduate/research-ibers/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcourses.aber.ac.uk%2Fpostgraduate%2Fresearch-ibers%2F&data=05%7C01%7CCableJ%40cardiff.ac.uk%7C0fb8d46b430549378e1008daf57b62bf%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C638092207533723292%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=be9pdtt0QrjueGSKMns0j1kZ5UccQMZanhoyhFfeKc8%3D&reserved=0 "Original URL: https://courses.aber.ac.uk/postgraduate/research-ibers/Click to follow link.")
+
+Queen's Mary Belfast: [https://dap.qub.ac.uk/portal/user/u_login.php](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdap.qub.ac.uk%2Fportal%2Fuser%2Fu_login.php&data=05%7C01%7CCableJ%40cardiff.ac.uk%7C9bba283d0bd74236ca2708daf8989369%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C638095631997668649%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=S8fZoTSYjVuwXvHhr8Rv5h9JowMn7vrpWTNFAcF%2BHJU%3D&reserved=0 "Original URL: https://dap.qub.ac.uk/portal/user/u_login.php Click to follow link.")
+
+LSHTM: [LSHTM Applicant Portal](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapply.lshtm.ac.uk%2Flogin&data=05%7C01%7Ccablej%40cardiff.ac.uk%7Cc54e2be091264642d13708db007980d3%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C638104294065523620%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KopUEHuimMlB%2FArmykGaP1q0vvWKz9Jd0zqxRqVTVJQ%3D&reserved=0 "Original URL: https://apply.lshtm.ac.uk/login Click to follow link.")
 
 # 24. HOW WILL STUDENTS BE SELECTED?
 
-Students will select one project. Supervisors of those projects will be required to nominate their preferred and reserve candidate (by emailing OneZoo\@cardiff.ac.uk) having shortlisted against the following criteria.
+Students will select one project. Supervisors of those projects will be required to nominate their preferred and reserve candidate (by emailing OneZoo\@cardiff.ac.uk) having shortlisted against the following criteria:
 
-* i)Why the student is keen to pursue a zoonoses PhD?
-* ii) What experience they have of relevant research and interdisciplinary work?
-* iii) Whether they have the necessary personal and academic skills to complete their PhD project
-* iv) Whether the OneZoo CDT is suited to the student and is likely to best contribute to their career.
+i)  Why the student is keen to pursue a zoonoses PhD?
+ii) What experience they have of relevant research and interdisciplinary work?
+iii) Whether they have the necessary personal and academic skills to complete their PhD project
+iv) Whether the OneZoo CDT is suited to the student and is likely to best contribute to their career.
 
 Nominated candidates will be interviewed by a central CDT interview panel, which aims to have representation from each University and some of our research partners.
 
@@ -424,10 +411,6 @@ Please contact the CDT Manager in the first instance at [OneZoo\@cardiff.ac.uk](
 |       |                                         |       |                                                                      |       |                                                              |       |
 +-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
 
-
-Professional Services (Katie Jorgensen \<JorgensenK\@cardiff.ac.uk\> CU; Aveen Lavery \<a.lavery\@qub.ac.uk\> QUB) and Doctoral Academy leads (Reyer Zwiggelaar [rrz\@aber.ac.uk](mailto:rrz@aber.ac.uk) AU; and Sam Alsford [Sam.Alsford\@lshtm.ac.uk](mailto:Sam.Alsford@lshtm.ac.uk) LSHTM) support.
-
+Professional Services (Katie Jorgensen [JorgensenK\@cardiff.ac.uk](mailto:JorgensenK@cardiff.ac.uk) CU; Aveen Lavery [a.lavery\@qub.ac.uk](mailto:a.lavery@qub.ac.uk) QUB and Doctoral Academy leads Reyer Zwiggelaar [rrz\@aber.ac.uk](mailto:rrz@aber.ac.uk) AU; and Sam Alsford [Sam.Alsford\@lshtm.ac.uk](mailto:Sam.Alsford@lshtm.ac.uk) LSHTM) support.
 
 **A Steering Committee will meet annually to advise on the strategic development, direction and future sustainability of the Centre as well as on all aspects of training offered by the CDT, including the prioritisation and development of the PhD projects (details of the Steering Committee will be published soon).**
-
-------------------------------------------------------------------------

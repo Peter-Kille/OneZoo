@@ -13,7 +13,9 @@ website:
       - section: "Project aplication"
         contents:
           - faqs.qmd
-
+          - faqs_annex_a.qmd
+          - faqs_annex_b.qmd
+          - faqs_case_requirements
 format:
   html:
     theme: cosmo

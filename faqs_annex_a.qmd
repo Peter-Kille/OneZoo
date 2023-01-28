@@ -1,0 +1,45 @@
+---
+title-block-style: default
+title-block-banner: darkred
+title: "FAQS Annex A : Template letter of support from stakeholders"
+subtitle: "Template letter of support from stakeholders"
+author: "Professor J. Cable"
+date: today
+affiliation: "Cardiff University"
+---
+
+![](images/Funders.png)UKRI Centre for Doctoral Training - CDT OneZoo
+
+                                                            [Partner Address Line 1]
+
+                                                            [Address Line 2]
+
+                                                            [Address Line 3]
+
+                                                            [Postcode]
+
+Date: DD/MM/YYYY
+
+To the OneZoo CDT,
+
+On behalf of \[Organisation\], Please accept this Letter of Support for:
+
+Project: xxxxxxx
+
+Please include here a brief organisation description, specifying why your organisation is interested in supporting this application.
+
+In support of this application, \[Organisation\] will provide:
+
+**Individual PhD project support:** We will work with the OneZoo researchers to further co-design the PhD projects. We understand that the projects and scholarships will be allocated on a competitive basis. If the advertised project is selected, we will commit to the following contributions over the 3.5 year funded studentship: \[please fill in below as appropriate -- delete / amend sections as needed\]
+
+*Student supervision and management:* Staff time (Staff member name) *Access to \[please list data/software/resources/equipment /materials/facilities\]* *Research support training grant:* Please indicate if you are able to offer a £ contribution towards the student's research costs e.g. for fieldwork / specialist training needed for the particular project etc. *Hosting of the student in the organisation:* Please indicate if you are able to host the PhD student at your institution and for how long (per year/in total).
+
+**Cohort suppport:** We recognise that our involvement in the interdisciplinary training programme is critical and will support this by \[please enter any in-kind or explicit support e.g. X days of staff time per year to participate/lead a workshop/training event AND/OR invite the whole cohort to visit our organisation\].
+
+\[Insert Signature\]
+
+\[Insert Name\]
+
+Named Project Contact for the CDT.
+
+\[Insert Date Signed\]

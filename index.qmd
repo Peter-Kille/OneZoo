@@ -1,14 +1,18 @@
 ---
 title-block-style: default
 title-block-banner: darkred
-title: "OneZoo CDT"
+title: "UKRI Centre for Doctoral Training - OneZoo CDT"
 subtitle: "A NERC, BBSRC and MRC Centre for Doctoral Training on the Environmental Drivers of, and Solutions to, Zoonoses"
 author: "Professor J. Cable"
 date: today
 affiliation: "Cardiff University"
 ---
 
-![](images/Funders.png)UKRI Centre for Doctoral Training - CDT OneZoo
+![](images/Funders.png)
+
+# Call for Projects now OPEN closed noon 28 Feb 2023
+
+For all details see [faqs](faqs.qmd) and conplete the online [application form](https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2023).
 
 # Introduction to OneZoo CDT
 

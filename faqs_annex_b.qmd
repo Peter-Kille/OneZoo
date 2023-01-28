@@ -1,0 +1,36 @@
+---
+title-block-style: default
+title-block-banner: darkred
+title: "FAQS Annex B : Template letter of support from stakeholders"
+subtitle: "Template letter of support from stakeholders"
+author: "Professor J. Cable"
+date: today
+affiliation: "Cardiff University"
+---
+
+                                                                 [Stakeholder Address]
+
+To OneZoo CDT School of Biosciences,
+
+Cardiff University,
+
+The Sir Martin Evans Building,
+
+Museum Avenue,
+
+Cardiff,
+
+CF10 3AX,
+
+Wales, UK
+
+Date: DD/MM/YYYY
+
+**ONEZOO CDT CASE STUDENT AGREEMENT** We at (stakeholder organization) agree to the partnership with OneZoo in respect of the project (Insert project title) with student (insert student name) being formally deemed a CASE studentship under the definition as provided by the Natural Environment Research Council, Biotechnology and Biological Sciences Research Council and the Medical Research Council (see below).
+
+We agree to the payment of (insert amount, min £1,000) per annum being paid to the student's Research Training and Support Grant via their Research Organization in support of their training and research costs, and a placement in the company of at least 3 months (which can be a cumulative total of short placements over the full length of the PhD). In addition, we will provide an appropriate supervisor (insert name), and agree to cover the student's expenses incurred in undertaking the placement, including travel and accommodation if required.
+
+
+\[Insert Signature\]
+
+\[Insert Name\]
