@@ -10,9 +10,9 @@ affiliation: "Cardiff University"
 
 ![](images/Funders.png)
 
-# Call for Projects now OPEN closed noon 28 Feb 2023
+# Call for Projects now OPEN closes noon 28 Feb 2023
 
-For all details see [faqs](faqs.qmd) and conplete the online [application form](https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2023).
+For all details see [faqs](faqs.qmd), you can now complete the online [application form](https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2023).
 
 # Introduction to OneZoo CDT
 
