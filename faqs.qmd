@@ -12,7 +12,7 @@ affiliation: "Cardiff University"
 
 # CDT OneZoo FAQs for supervisors
 
-## A NERC, BBSRC and MRC Centre for Doctoral Training on the Environmental Drivers of
+## A NERC, BBSRC and MRC Centre for Doctoral Training on the Environmental Drivers of Zoonoses
 
 +-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+
 |     | Our transdisciplinary **OneZoo CDT will equip the next generation of world-leading scientists with the skills and insight necessary to tackle current and future zoonotic threats**. To design successful, innovative environmental prevention and control strategies, zoonotic drivers need to be understood through an integrated systems approach. Our students will build an in-depth understanding of the connectivity between key drivers of pathogen host shifts, spillover and onward transmission; exploring pathogen, environmental and human societal processes that can promote zoonotic disease and form the basis of integrated solutions.                                                                                                                                                                                                                  |     |
@@ -24,8 +24,6 @@ affiliation: "Cardiff University"
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
 +-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+
 
-**Zoonoses**
-
 # 1.HOW MANY STUDENTSHIPS ARE AVAILABLE?
 
 Up to 20 studentships are available for October 2023. The NERC/BBSRC/MRC awarded 16 notional studentships to the CDT and the four academic institutions are contributing additional funds to uplift this number to 20. We anticipate similar numbers of students in Years two and three.
@@ -33,6 +31,8 @@ Up to 20 studentships are available for October 2023. The NERC/BBSRC/MRC awarded
 # 2.HOW DO I SUBMIT A PROJECT PROPOSAL?
 
 Zoonoses project proposals must be submitted **by Noon on Friday 28^th^ February 2023** using the online survey: [**https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2023**](https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2023)
+
+[Download and preview the survey](www/Project_Survey_final_2023.pdf)
 
 Once the application deadline has passed, a project selection panel comprised of at least one representative from each institution will first score then jointly scrutinise projects and select the top 40 for advertisement. **You will be informed of the outcome of this process by the end of March.**
 
