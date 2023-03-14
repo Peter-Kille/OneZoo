@@ -1,0 +1,414 @@
+---
+title-block-style: default
+title-block-banner: darkred
+title: "2023 Project Call"
+subtitle: "CDT OneZoo FAQs for Supervisors"
+author: "Professor J. Cable"
+date: today
+affiliation: "Cardiff University"
+---
+
+![](images/Funders.png)UKRI Centre for Doctoral Training - CDT OneZoo
+
+# CDT OneZoo FAQs for supervisors
+
+## A NERC, BBSRC and MRC Centre for Doctoral Training on the Environmental Drivers of Zoonoses
+
++-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+
+|     | Our transdisciplinary **OneZoo CDT will equip the next generation of world-leading scientists with the skills and insight necessary to tackle current and future zoonotic threats**. To design successful, innovative environmental prevention and control strategies, zoonotic drivers need to be understood through an integrated systems approach. Our students will build an in-depth understanding of the connectivity between key drivers of pathogen host shifts, spillover and onward transmission; exploring pathogen, environmental and human societal processes that can promote zoonotic disease and form the basis of integrated solutions.                                                                                                                                                                                                                  |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
+|     | Our award-winning educators and experts in zoonotic diseases and environmental sciences, from Cardiff University, Aberystwyth University, Queen's University Belfast, and the London School of Hygiene and Tropical Medicine, will work collectively, fostering creation of the CDT research community, and empowering students to develop their own training to acquire strong employability skills. Through structured transdisciplinary training and flipped learning, **Year Group Team Challenges,** guidance from multidisciplinary supervisory teams, and regular interactions with our 28 external partners (\>25% CASE and placements offered to all students), we will equip our OneZoo researchers with the skills to assess and develop One Health/Planetary Health strategies that secure optimal health and equity for people, animals and the environment. |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
+|     | **This CDT offers an unprecedented level of diversity and transdisciplinarity.** Our pool of \>170 supervisors span disciplines from Anthropology to Zoology (A-Z), and offers both breadth and depth of knowledge in environmental, veterinary, biomedical, humanities and human clinical research to provide holistic training. Our diverse range of external partners (from NGOs to governmental bodies), provide the students with real world knowledge to complement their academic training.                                                                                                                                                                                                                                                                                                                                                                        |     |
++-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
++-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+
+
+# 1.HOW MANY STUDENTSHIPS ARE AVAILABLE?
+
+Up to 20 studentships are available for October 2023. The NERC/BBSRC/MRC awarded 16 notional studentships to the CDT and the four academic institutions are contributing additional funds to uplift this number to 20. We anticipate similar numbers of students in Years two and three.
+
+# 2.HOW DO I SUBMIT A PROJECT PROPOSAL?
+
+Zoonoses project proposals  **for entry 2023 is now closed - this will reopen for later this year for projects to start sept 2024** 
+
+Once the application deadline has passed, a project selection panel comprised of at least one representative from each institution will first score then jointly scrutinise projects and select the top 40 for advertisement. **You will be informed of the outcome of this process by the end of March.**
+
+Only proposals submitted via the online survey by the deadline will be considered. The online survey form cannot be shared, so we advise you to save a version of your answers e.g. in a Word doc, to facilitate collaboration with your team and also in the event the online survey crashes whilst you are completing it. You will be able to save and revise your proposal online before the deadline, but once it is submitted it cannot be amended. If you need to revise your form you must submit a new one and advise us to delete the original, but this cannot be done after the deadline has passed.
+
+Please note that after the selection process has taken place, **there will be no appeals against decisions**. Please therefore familiarise yourself with the aims and themes of the CDT and **ensure you read this FAQ document before completing your proposal.**
+
+***Please ensure you have approval from your home institution to submit your project.***
+
+# 3. WHAT ARE THE KEY DATES FOR THE RECRUITMENT PROCESS?
+
+**(Timetable is very preliminary and subject to change. Supervisor actions in bold)**
+
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | ASAP                           |       | Call for Projects opens                                                                                          |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | **12:00pm (noon) 28 Feb 2023** |       | **Supervisor project proposal submission deadline**                                                              |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       | **Supervisors notified of CDT panel selection of projects**                                                      |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | March 2023                     |       | Projects advertised on CDT website                                                                               |       |
+|       |                                |       |                                                                                                                  |       |
+|       |                                |       | Advertise externally on FindaPhD.com                                                                             |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | March 2023                     |       | Student applications open                                                                                        |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | 1 May 2023                     |       | Student applications close                                                                                       |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | May 2023                       |       | Applications forwarded to Lead Supervisors. Supervisors select which of their candidates they wish to interview. |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | **May 2023**                   |       | **Applicant/supervisor interviews**                                                                              |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | **End May 2023**               |       | **Supervisor submits report to CDT outlining first choice and reserve choice candidates**                        |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | June 2023                      |       | Management Board scores shortlist of preferred candidates                                                        |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | June 2023                      |       | Interviewees notified                                                                                            |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | Mid June 2023                  |       | Selection board interviews candidates                                                                            |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       | UKRI offer acceptance deadline.                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       | 1 October 2023                 |       | Official funding start date                                                                                      |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+|       |                                |       |                                                                                                                  |       |
++-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
+
+# 4.DO I HAVE TO APPLY THIS YEAR? CAN I APPLY EVERY YEAR?
+
+\*\* The CDT is funded for three consecutive intakes, this is the first intake. Depending on the number of projects submitted, we might limit the number of projects that can be submitted by lead supervisors in Years two and three. Supervisors can be co-supervisors on an unlimited number of projects in all years.
+
+# 5.IF UNSUCESSFUL, WILL I BE ALLOWED TO SUBMIT THE SAME PROJECT PROPOSAL NEXT YEAR?
+
+Yes. If you were unsuccessful, you might consider reviewing the selection criteria to strengthen your project, to assess how it fits the themes of the CDT, and consider how to improve the advertising text/title to be more attractive.
+
+# 6.DOES THE PROJECT HAVE TO FIT INTO ONE OF THE THREE THEMES?
+
+In line with UKRI requirements for the CDT, all projects must demonstrate a strong ***environmental*** component and should address at least one of these three key challenges in identifying environmental drivers of, and solutions to, infectious diseases:
+
+a)  **Disease Preparedness:** detection, environmental monitoring (novel sampling approaches; innovative technologies/diagnostics), horizon scanning and risk assessment;
+
+b)  **Disease Transmission**: pathways and connectivity of drivers of infection, disease emergence and spread (the effects of anthropogenic and environmental change, evolution, human and animal movement patterns, socioeconomic and political drivers);
+
+c)  **Disease Control**: integrated solutions for sustainable management and mitigation of zoonoses (environmental, socio-political and therapeutic barriers to transmission, including changing habitat, landuse and animal practices).
+
+Interdisciplinary research is [strongly]{.underline} encouraged.
+
+# 7. HOW MANY SUPERVISORS CAN BE ON THE PROPOSAL?
+
+There is no maximum number of supervisors. The application form allows space for up to four, so please use those spaces to identify the main supervisory staff and include the remainder as a project team in the later sections. Those listed as co-supervisors will be required to have a greater level of involvement in the student's progression monitoring and research training than would be the case in a non-CDT studentship. Less experienced supervisory teams may include an experienced supervisor to act in a 'mentoring' role, this is [strongly]{.underline} encouraged. Also, we encourage ECR to be part of the supervisory team so that they can be trained as PhD supervisors. Please note: projects that require use of specialist resources or techniques should include a relevant supervisor in the team.
+
+# 8. HOW WILL THE CDT CORRESPOND WITH THE SUPERVISORY TEAM?
+
+The majority of communications will be directed via the lead supervisor, who will be expected to cascade the information onto the rest of their team. This is to try and reduce the volume of communication the CDT hub has to process.
+
+# 9. SHOULD PROJECTS HAVE SUPERVISORS FROM MORE THAN ONE CDT CORE PARTNER?
+
+Yes. The CDT aims to show what can be achieved by harnessing the combined power of four research intensive universities. We have given an undertaking that **100% of projects will be across two or more partners at Cardiff, Aberystwyth, Queen's University Belfast and LSHTM.**
+
+Collaboration can mean access to laboratories, specific training, etc., not just co-supervision. However, experience has shown that one of the most effective ways of building collaboration and cohesion across a network and adding extra value to the student experience is through co-supervision.
+
+# 10. SHOULD NON-ACADEMIC PARTNERS/STAKEHOLDERS BE INVOLVED?
+
+Yes, and this is compulsory. The CDT seeks to have **100% co-designed projects with end-users**, and **each supervisory team should involve a stakeholder representative**. In some cases, the CDT will consider instead an overseas academic if these are in an ODA country. A stakeholder letter of support must be submitted with your project proposal (email this to [OneZoo\@cardiff.ac.uk](mailto:OneZoo@cardiff.ac.uk)).
+
+# 11. WHAT TYPE OF STAKEHOLDER ENGAGEMENT ARE YOU SEEKING?
+
+Other than the compulsory supervision role, the CDT expects stakeholder partners to be involved in a number of ways, such as:
+
+*Student supervision and management,* Access to data, software, resources, equipment, materials or facilities, *Hosting of the student in the organisation,* A financial contribution: e.g. a contribution towards the student's research costs (a Research Support Training Grant) e.g. for fieldwork / specialist training needed for the particular project etc.
+
+*High quality, high engagement stakeholder project proposals will carry premium in the selection process.*
+
+# 12. CASE STUDENTSHIPS WILL BE GIVEN PRIORITY
+
+**A CASE STUDENTSHIP INCLUDES A MINIMUM CONTRIBUTION OF £1,000 PER ANNUM TO THE STUDENT'S RTSG AND A MINIMUM THREE MONTH PLACEMENT (UP TO 18 MONTHS) WHICH CAN BE SPREAD OVER THE PROJECT LIFETIME.**
+
+CASE studentships give students access to training, facilities and expertise not available in an academic setting.The CASE partner can come from the public, private or third sector. However, organisations eligible to receive UKRI research funding are not allowed to be a CASE partner.
+
+**There is also an expectation that the partner will cover a student's out-of-pocket expenses, such as travel to the site, and provide access to the resources, facilities and equipment necessary to carry out the project.**
+
+At [Annex A](faqs_annex_a.qmd) is a template for a letter of support from stakeholders, which is required as part of your application, and should be submitted to [OneZoo\@cardiff.ac.uk](mailto:OneZoo@cardiff.ac.uk) by the same deadline as the online application.
+
+At [Annex B](faqs_annex_b.qmd) is a template for a CASE letter of support from stakeholders along with detailed information on what is a CASE studentship.
+
+# 13. WHAT IS COVERED BY THE STUDENTSHIP?
+
+Most of the studentships will be of 3.5 years' duration. Our award has been calculated on this basis. Applications for a longer duration will be considered on a case-by-case basis, as the grant allows for flexibility.
+
+The elements of the studentship are: fees (UK/EU rate); UKRI national minimum stipend; and RTSG.
+
+Please note: the funding is linked to the successful student. If the student withdraws at any stage, the funding will be re-allocated by the Management Board to the next best ranked student on the list. Therefore, supervisors will not automatically be able to re-advertise their project for a new student.
+
+# 14. WHAT FUNDING IS AVAILABLE FOR PROJECT COSTS -- E.G. CONSUMABLES, TRAVEL, CONFERENCES?
+
+Each studentship will include an RTSG ([Research Training Support Grant]{.underline}) as a contribution toward basic consumables and training. NERC notionally allocates £11,000 per student.
+
+As set out in the bid, the OneZoo CDT is offering 3.5 year studentships, with the first 12 months involving cohort training. The CDT will therefore retain and centrally manage £2,750 of each student's RTSG to help cover their cohort training expenses.
+
+The remaining fund of £8,250 per student is a contribution towards the research, training and development costs of the student, *over the lifetime of the project*. Project proposals should outline how the research costs will be met whilst leaving sufficient funds for activities such as conference attendance, overseas opportunities, workshops, advanced training and travel to development opportunities etc.
+
+***Note that there are specific rules governing the use of RTSG funds, which cannot be used to purchase consumables or equipment which would normally be expected to be provided by the institution.*** **The RTSG can be used for the purchase of laptops, or as a contribution towards the cost of a laptop, if standard provision is not considered adequate.**\*
+
+# 15. WHEN STUDENTS UNDERTAKE RESEARCH AT DIFFERENT INSTITUTIONS, HOW WILL THEIR RESEARCH BE FUNDED?
+
+The RTSG and any supplement awarded, will be made available to the student and lead supervisor via the host institution. It is the responsibility of the supervisory team to manage the funds across institutions, to ensure costs are within budget. Reimbursement of RTSG expenditure is made annually at the year-end; host institutions/schools claim actual expenditure in arrears from Cardiff University. Co-supervisory institutions will not receive a portion of tuition fees.
+
+# 16. WHAT TRAINING WILL THE CDT PROVIDE?
+
+Training details will be provided on the CDT website. In addition, please see an extract from the CDT bid available as a download from the website. Please note: engagement with the CDT training programme is compulsory for both students ***and*** the supervisory team. Continued sponsorship is contingent on that engagement.
+
+Please note that one of the main differences between a studentship in a CDT or DTP and a standalone PhD is that there is a substantial amount of cohort training in competencies and broader skills sets than the student may need for their individual project. This is delivered to students as a group, which also helps the building of a cohesive and supportive community of researchers. Thus training and cohort building events are mandatory for students to attend. Supervisors should recognise this and be supportive of students spending time away from their own research. Therefore, at the first progress monitoring or upgrade point, supervisors need to take account of the fact that as a result of this additional training, CDT students may not have achieved as much in terms of their project outcomes as may traditionally be expected of non-CDT students.
+
+# 17. CAN PROJECTS INCLUDE A MASTERS COURSE IN YEAR ONE E.G. 1+3?
+
+We are not running a 1+3 programme; however, if relevant, the student can undertake Masters modules.
+
+# 18. SHOULD PROPOSALS INCLUDE FULL COSTINGS?
+
+We do not need a formal budget for reviewing projects; however, your own institution may require this to ensure the project will not be underfunded. Proposals need to outline anticipated highs costs and potential funding sources on the Supervisor Project Proposal Form. By submitting a project, you areundertaking to underwrite high project costs that are not covered by the studentship grant, hence a requirement to confirm institutional approval.
+
+# 19. HOW WILL PROJECTS BE SCREENED?
+
+Project proposals should be approved at institutional level **before** being submitted to the CDT. This will be a light-touch screening, primarily to ensure the supervisor/School/Dept. has the operational capacity and the supervisory team satisfies the local supervisory regulations. You will be asked to check a box on the application form to confirm you have received institutional approval before submission of your project proposal e.g. from a OneZoo CDT co-director/Head of School/Faculty.
+
+Project screening will be made on the basis of scientific and training excellence, and alignment with the strategic priorities of the CDT and will be scored against the following criteria:
+
+1.The suitability of the OneZoo supervisory team namely as regards track record and access to facilities; 2. The suitability of the research project in terms of: 2.1 fit to the OneZoo priority areas 2.2. clear question defined 2.3. originality and/or significance 2.4. feasibility 3.Your consideration of EDI for the student, supervisory team and the research discipline.
+
+In preparing project proposals, supervisors may also want to make reference to the following:
+
+[*UKRI Statement of Expectations*](https://www.ukri.org/funding/information-for-award-holders/grant-terms-and-conditions/)
+
+[*NERC Success Criteria for Training*](http://www.nerc.ac.uk/skills/postgrad/policy/successcriteria/)
+
+*UKRI Call for this bid: <https://www.ukri.org/opportunity/centre-for-doctoral-training-environmental-solutions-to-zoonoses/>*
+
+# 20. IS IT IMPORTANT FOR THE SUPERVISORS TO HAVE A RECORD OF UKRI FUNDING?
+
+The record of the proposed supervisory team in attracting research funding will be taken as evidence of a high-quality research environment in which the student will work. There is no requirement that the funding is UKRI, but if there are no UKRI grants then the supervisors will want to highlight other funding.
+
+# 21. HOW WILL PROJECTS BE ADVERTISED?
+
+The lead supervisor will be informed if their project has been approved.Successful project proposals will be advertised on the OneZoo CDT website collectively, and a generic advert placed on FindaPhD.com. Each partner will advertise on their own website and via other advertising channels, e.g. specific project adverts on FindAPhD via their institutional licence. Standard text will be provided for applicant guidance, including terms and conditions.
+
+# 22. WHAT ARE THE STUDENT ELIGIBILITY CRITERIA?
+
+Students will need to meet the standard [academic eligibility criteria]{.underline}: a first or upper second-class honours degree (or equivalent) in a relevant subject; a less than sufficient first degree may be enhanced to meet the requirements by the acquisition of a Masters.
+
+Post Brexit, EU students now pay international fees (if any queries please check with your home institution). We will be looking to appoint 30% international students (6 students in Year 1).
+
+Students will need to meet the English Language requirements of their home institution. The CDT student application form asks, if applicable, whether the student has taken the IELTS test and met the required level; taken the test and failed to meet the level; or needs to take the test. This question is for administration purposes only; the Management Board will not be made aware of applicant's English language skills during the shortlisting process. We have requested this information as a simple check, in particular to encourage applicants to consider their eligibility against the requirements. Successful applicants will still need to meet the requirements of their home institution.
+
+# 23. HOW WILL CANDIDATES APPLY?
+
+The CDT application process aims to select the best applicants and will make an 'offer of funding'. The host institution will be responsible for checking eligibility and making an 'offer to study'. The process for applying will be made clear on the advertisements.
+
+Applicants will apply via a centralised online application form direct to the CDT (OneZoo.uk). After the closing deadline all application forms will be forwarded to the Lead Supervisor of the projects to which the student applied, for shortlisting.
+
+The application to the CDT is for an 'offer of funding'. In addition, students must apply simultaneously for an 'offer to study' (i.e. for a 'place' at or admission to the 'home' university of their primary academic supervisor, through the University's Online application form, dependent on institutional practices).
+
+Cardiff University: <https://www.cardiff.ac.uk/study/postgraduate/research/programmes/programme/biosciences-phd-mphil-md>
+
+Aberystwyth: [https://courses.aber.ac.uk/postgraduate/research-ibers/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcourses.aber.ac.uk%2Fpostgraduate%2Fresearch-ibers%2F&data=05%7C01%7CCableJ%40cardiff.ac.uk%7C0fb8d46b430549378e1008daf57b62bf%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C638092207533723292%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=be9pdtt0QrjueGSKMns0j1kZ5UccQMZanhoyhFfeKc8%3D&reserved=0 "Original URL: https://courses.aber.ac.uk/postgraduate/research-ibers/Click to follow link.")
+
+Queen's Mary Belfast: [https://dap.qub.ac.uk/portal/user/u_login.php](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdap.qub.ac.uk%2Fportal%2Fuser%2Fu_login.php&data=05%7C01%7CCableJ%40cardiff.ac.uk%7C9bba283d0bd74236ca2708daf8989369%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C638095631997668649%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=S8fZoTSYjVuwXvHhr8Rv5h9JowMn7vrpWTNFAcF%2BHJU%3D&reserved=0 "Original URL: https://dap.qub.ac.uk/portal/user/u_login.php Click to follow link.")
+
+LSHTM: [LSHTM Applicant Portal](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapply.lshtm.ac.uk%2Flogin&data=05%7C01%7Ccablej%40cardiff.ac.uk%7Cc54e2be091264642d13708db007980d3%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C638104294065523620%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KopUEHuimMlB%2FArmykGaP1q0vvWKz9Jd0zqxRqVTVJQ%3D&reserved=0 "Original URL: https://apply.lshtm.ac.uk/login Click to follow link.")
+
+# 24. HOW WILL STUDENTS BE SELECTED?
+
+Students will select one project. Supervisors of those projects will be required to nominate their preferred and reserve candidate (by emailing OneZoo\@cardiff.ac.uk) having shortlisted against the following criteria:
+
+i)  Why the student is keen to pursue a zoonoses PhD?
+ii) What experience they have of relevant research and interdisciplinary work?
+iii) Whether they have the necessary personal and academic skills to complete their PhD project
+iv) Whether the OneZoo CDT is suited to the student and is likely to best contribute to their career.
+
+Nominated candidates will be interviewed by a central CDT interview panel, which aims to have representation from each University and some of our research partners.
+
+The interviews, application form and supervisor report will all contribute to the panel's considerations for allocating studentships. The Management Board will allocate studentships based primarily on candidate quality ranking and student choice, but also taking account of the scientific strategy of the CDT, ensuring balance across themes and strategic skills (see para 26).
+
+# 25. HOW WILL THE BALANCE BETWEEN THE THEMES AND INSTITUTIONS BE ACHIEVED?
+
+The overriding goal of the CDT is to recruit excellent students. That said, the CDT seeks to recruit students in approximately equal numbers to the four research themes, and there are institutional expectations that the allocation of studentships will result in ca. 20 studentships each over the three intakes.
+
+The final allocation decisions will focus on the quality of the applicants but also take into account: balance between themes; balance between institutions; cross-institutional/industrial supervision; end-user contributions.
+
+Note that balance will be sought over the three years of intake, so that imbalances in one year due to the spectrum of students who applied, may be redressed later. We are also monitoring for equality and diversity and will take action as necessary to redress any imbalance.
+
+# 26. WHO WILL STUDENTS BE REGISTERED WITH?
+
+Students will register for a PhD with the HEI of the primary academic supervisor. They will be registered with one HEI only, but will have access to other HEI(s) (*e.g.* through visiting student status) at the other core institutions.
+
+The monitoring of progression, appraisal and pastoral support will be provided in the first instance by the relevant PGR office of the 'home' HEI. The Management Board, however, will oversee the progress of all students as well, receiving reports from the PGR offices and supervisors, as well as the students themselves. Where problems arise, the Management Board will seek to provide additional support over and above, but in collaboration with, that provided by the local PGR office.
+
+# 27. FURTHER QUESTIONS?
+
+Please contact the CDT Manager in the first instance at [OneZoo\@cardiff.ac.uk](mailto:OneZoo@cardiff.ac.uk) or your Institutional or Operation Lead:
+
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | **NAME**                 |       | **ROLE**                                      |       | **EMAIL**                                            |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | **CDT Management Board** |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | Jo Cable                 |       | **Director**                                  |       | cablej\@cardiff.ac.uk                                |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | Jo Lello                 |       | **Cardiff** Co-director                       |       | [LelloJ\@cardiff.ac.uk](mailto:LelloJ@cardiff.ac.uk) |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | Jo Hamilton              |       | **Aberystwyth** Co-director                   |       | jvh\@aber.ac.uk                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | Nikki Marks              |       | **Queen's University Belfast** Co-director    |       | N.Marks\@qub.ac.uk                                   |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | Sian Clarke              |       | **LSHTM** Co-director                         |       | Sian.Clarke\@lshtm.ac.uk                             |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | Sarah Perkins            |       | **Research in Practice** (Student Placements) |       | Perkinss\@cardiff.ac.uk                              |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | Cedric Berger            |       | **Training Lead**                             |       | BergerC3\@cardiff.ac.uk                              |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | TBA                      |       | **Student Reps**                              |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | TBA                      |       | **CDT Manager**                               |       | [OneZoo\@cardiff.ac.uk](mailto:OneZoo@cardiff.ac.uk) |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+
+ 
+
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | **NAME**                                |       | **ROLE**                                                             |       | **EMAIL**                                                    |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | **Training Team** (led by Berger)       |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Reyer Zwiggelaar                        |       | **AU** co-training lead                                              |       | [rrz\@aber.ac.uk](mailto:rrz@aber.ac.uk)                     |       |
+|       |                                         |       |                                                                      |       |                                                              |       |
+|       |                                         |       | R statistics and Big Data                                            |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Aaron Maule                             |       | **QUB** co-training lead                                             |       | a.maule\@qub.ac.uk                                           |       |
+|       |                                         |       |                                                                      |       |                                                              |       |
+|       |                                         |       | Pathogen Biology                                                     |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Chris Drakeley                          |       | **LSHTM** co-training lead                                           |       | Chris.Drakeley\@lshtm.ac.uk                                  |       |
+|       |                                         |       |                                                                      |       |                                                              |       |
+|       |                                         |       | Infection & Immunity                                                 |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Pete Kille                              |       | Bioinformatics                                                       |       | Kille\@cardiff.ac.uk                                         |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Rob Moon                                |       | Molecular Biology                                                    |       | [Rob.Moon\@lshtm.ac.uk](mailto:Rob.Moon@lshtm.ac.uk)         |       |
+|       |                                         |       |                                                                      |       |                                                              |       |
+|       | Justin Pachebat                         |       |                                                                      |       | jip\@aber.ac.uk                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Geoff McMullan                          |       | Proteomics                                                           |       | [Geoff.McMullan\@qub.ac.uk](mailto:Geoff.McMullan@qub.ac.uk) |       |
+|       |                                         |       |                                                                      |       |                                                              |       |
+|       | Russ Morphew                            |       |                                                                      |       | rom\@aber.ac.uk                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Paul McVeigh                            |       | Diagnostics                                                          |       | paul.mcveigh\@qub.ac.uk                                      |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Darrel Abernethy                        |       | Animal Health                                                        |       | [daa47\@aber.ac.uk](mailto:daa47@aber.ac.uk)                 |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Isa-Rita Russo                          |       | Field Skills                                                         |       | RussoIM\@cardiff.ac.uk                                       |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Fred Windsor                            |       | Ecology                                                              |       | WindsorFM\@cardiff.ac.uk                                     |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Sara MacBride-Stewart                   |       | Human Societal Processes                                             |       | Macbride-StewartS\@cardiff.ac.uk                             |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | **Student Experience**                  |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Emma Yhnell                             |       | Educator & Science Communicator                                      |       | YhnellE\@cardiff.ac.uk                                       |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | **Research Culture and Wellbeing lead** |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       | Jo Hamilton                             |       | Faculty Associate Dean for Learning, Teaching and Student Experience |       | jvh\@aber.ac.uk                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+|       |                                         |       |                                                                      |       |                                                              |       |
++-------+-----------------------------------------+-------+----------------------------------------------------------------------+-------+--------------------------------------------------------------+-------+
+
+Professional Services (Katie Jorgensen [JorgensenK\@cardiff.ac.uk](mailto:JorgensenK@cardiff.ac.uk) CU; Aveen Lavery [a.lavery\@qub.ac.uk](mailto:a.lavery@qub.ac.uk) QUB and Doctoral Academy leads Reyer Zwiggelaar [rrz\@aber.ac.uk](mailto:rrz@aber.ac.uk) AU; and Sam Alsford [Sam.Alsford\@lshtm.ac.uk](mailto:Sam.Alsford@lshtm.ac.uk) LSHTM) support.
+
+**A Steering Committee will meet annually to advise on the strategic development, direction and future sustainability of the Centre as well as on all aspects of training offered by the CDT, including the prioritisation and development of the PhD projects (details of the Steering Committee will be published soon).**

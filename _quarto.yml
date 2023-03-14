@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Team"
+        contents:
+          - team.qmd
+      - section: "Student applications 2023"
+        contents:
+          - projects_2023.qmd 
+          - student_app.qmd 
+      - section: "Project aplication"
+        contents:
+          - faqs.qmd
+          - faqs_annex_a.qmd
+          - faqs_annex_b.qmd
+          - faqs_case_requirements
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

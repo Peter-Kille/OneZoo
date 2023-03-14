@@ -1,0 +1,25 @@
+---
+title-block-style: default
+title-block-banner: darkred
+title: "UKRI CASE Requirements"
+subtitle: "UKRI CASE Requirements "
+author: "Professor J. Cable"
+date: today
+affiliation: "Cardiff University"
+---
+
+It is mandatory that students spend a part of their training (between three and eighteen months) with the CASE partner.
+
+UKRI studentships can be delivered in collaboration with non-academic partners from the private, public and third/civil sectors; where studentships are delivered in collaboration they are referred to as 'CASE studentships'. CASE studentships provide the PhD students with enhanced training opportunities by ensuring they spend between three and eighteen months in total with their CASE partner in a workplace outside the academic environment. This placement represents an important contribution to the training of the student and should provide specific training or access to capabilities and expertise not available at the academic partner.
+
+CASE studentships provide outstanding students with access to training, facilities and expertise not available in an academic setting alone. The CASE partners benefit from self-motivated, highly capable PhD students undertaking cutting-edge research relevant to their organisation's priorities and objectives. Both parties are also able to build and strengthen business and research collaborations. CASE studentship projects must provide sound training in research methods, and a stimulating intellectual challenge for the student. The work's impetus and initial requirement should originate from the CASE partner. Both the research organisation and the CASE partner nominate supervisors responsible for overseeing the student's training.
+
+Impact is one of the CASE scheme's main criteria. Studentships should demonstrate the potential for societal or economic impact through collaboration with the CASE partner and the provision of high quality training in research skills.
+
+[**CASE partner responsibilities**]{.underline}
+
+CASE partners are required to supplement the studentship, and thus enhance the research project, by:
+
+-   paying at least £1,000 per year to the lead research organisation to supplement the Research & Training Support Grant (RTSG) for the duration of the studentship
+-   in addition to the cash contribution above, meeting the extra expenses (such as travel and subsistence) incurred by the student visiting and working in the CASE establishment(s)
+-   contributing in cash or in kind towards necessary materials whilst the student is based at the CASE partner establishment(s).

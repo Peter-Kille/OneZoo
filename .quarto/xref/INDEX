@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "10ff2162"
+  },
+  "about.qmd": {
+    "about.html": "fe458d98"
+  },
+  "faqs.qmd": {
+    "faqs.html": "2dc2ce15"
+  },
+  "team.qmd": {
+    "team.html": "ca52feed"
+  },
+  "faqs_annex_a.qmd": {
+    "faqs_annex_a.html": "96c67fa4"
+  },
+  "faqs_annex_b.qmd": {
+    "faqs_annex_b.html": "a4c1ac8c"
+  },
+  "faqs_case_requirements.qmd": {
+    "faqs_case_requirements.html": "fcdd98da"
+  },
+  "projects_2023.qmd": {
+    "projects_2023.html": "f5aa63af"
+  },
+  "student_app.qmd": {
+    "student_app.html": "43f14a49"
+  }
+}
