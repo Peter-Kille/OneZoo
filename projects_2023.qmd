@@ -62,7 +62,7 @@ Supervised by Dr Joanne Lello (School of Biosciences, Cardiff University) and co
 
 ## 9. Zoonotic Pathogen Growth Rate -- A Marker for Disease Virulence and Therapy Resistance.
 
-Supervised by Prof Aaron Maule (QUB, Biological Sciences) and co-supervised by Dr Russ Morphew (Life Sciences, Aberystwyth University), Prof Daniel Longley (QUB, WWIEM), and Prof Jane Hodgkinson (Liverpool University, Institute of Infection and Global Health). The stakeholder CASE partner will be Boehringer Ingelheim (BI) Animal Health Inc. USA led by Dr John Harrington (Senior Associate Director). The student will be based in Prof Maule's lab at Queen's University Belfast. For more information, contact [Prof Aaron Maule](a.maule@qub.ac.uk).
+Supervised by Prof Aaron Maule (QUB, Biological Sciences) and co-supervised by Dr Russ Morphew (Life Sciences, Aberystwyth University), Prof Daniel Longley (QUB, WWIEM), and Prof Jane Hodgkinson (Liverpool University, Institute of Infection and Global Health). The stakeholder CASE partner will be Boehringer Ingelheim (BI) Animal Health Inc. USA led by Dr John Harrington (Senior Associate Director). The student will be based in Prof Maule's lab at Queen's University Belfast. For more information, contact [Prof Aaron Maule](A.Maule@qub.ac.uk).
 
 [More details see FindaPhD](https://www.findaphd.com/phds/project/zoonotic-pathogen-growth-rate-a-marker-for-environmental-mapping-of-disease-virulence-and-therapy-resistance/?p156525)
 
@@ -80,9 +80,9 @@ More details see FindaPhD
 
 ## 12. Detecting, diagnosing and disrupting schistosomiasis.
 
-Supervised by Professor Karl Hoffmann (AU) and co-supervised by Professor Joanne Hamilton (AU), Dr Rhys Jones (AU), and Dr Laura Braun (LSHTM). The stakeholder supervisor is Dr Peter Wasson (LifeArc). The student will be based at Aberystwyth University. For more information, contact [Dr Otar Akanyeti](krh@aber.ac.uk).
+Supervised by Professor Karl Hoffmann (AU) and co-supervised by Professor Joanne Hamilton (AU), Dr Rhys Jones (AU), and Dr Laura Braun (LSHTM). The stakeholder supervisor is Dr Peter Wasson (LifeArc). The student will be based at Aberystwyth University. For more information, contact [Professor Karl Hoffmann](krh@aber.ac.uk).
 
-[More details see FindaPhD]
+\[More details see FindaPhD\]
 
 ## 13. Examining the potential of environmental DNA analysis and enhanced biosecurity for the management of Zoonotic Iceberg Diseases on Sheep Farms.
 
