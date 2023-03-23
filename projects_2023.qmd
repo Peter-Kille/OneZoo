@@ -28,7 +28,7 @@ More details see FindaPhD
 
 Supervised by Dr Thomas Woolley, co-supervised by Dr Katerina Kaouri (School of Mathematics, Cardiff University), Prof. Wassim Jabi (Computational Methods in Architecture, Cardiff University) and Dr Arwyn Edwards (School of Biosciences, Aberystwyth University with stakeholder support from the Welsh Government, represented by Dr Brendan Collins (Head of Health Economics, Advanced Analytics and Policy Modelling, Welsh Gov). The student will be based in the School of Mathematics at Cardiff University. For further information contact Dr Thomas Woolley email: woolleyt1@cardiff.ac.uk
 
-More details see FindaPhD
+[More details see FindaPhD](https://www.findaphd.com/phds/project/modelling-disease-spread-and-non-pharmaceutical-interventions-in-enclosed-spaces/?p156570)
 
 ## 4. One-Flu: Wastewater-Guided Environmental Surveillance Platform for Tracking and Cryptosporidium Assessing Zoonotic Influenza A Virus (IAV) Threat.
 
@@ -94,7 +94,7 @@ More details see FindaPhD
 
 Supervised by Prof Les Baillie (School of Pharmacy, Cardiff University) and co-supervised by Dr Justin Pachebat (Microbial Genomics, Aberystwyth University) and Dr Tim Jones (School of Earth and Environmental Sciences, Cardiff University). Professor Mitat Sahin (Veterinary Faculty, Kafkas University, Kars. Turkey) will act as the stakeholder partner along with Prof Fatih Buyuk. As well as Sara Casey, Biological Hazards Lead, CBRN Science Team, Analysis & Evidence for Floods, Water & Contamination Floods & Water, Department for Environment, Food and Rural Affairs (DEFRA), the Instituto Zooprofilattico Spermimentale dell Puglia e della Basilicata (IZSPB), and Dstl Porton Down, supported by Dr EH Dyson, Principal Medical Officer (Research) CB Division. The student will be based at the School of Pharmacy, Cardiff University. For more information, contact Prof Les Baillie email: bailliel@cardiff.ac.u
 
-More details see FindaPhD
+[More details see FindaPhD](https://www.findaphd.com/phds/project/how-is-climate-change-driving-the-re-emergence-and-evolution-of-anthrax/?p156768)
 
 ## 15. Surveillance, detection, and environmental drivers of avian influenza-like viruses in African birds.
 
@@ -102,7 +102,7 @@ Supervised by Dr Is-Rita Russo and co-supervised by Prof Jo Cable and Dr Tomasz 
 
 [More details see FindaPhD](https://www.findaphd.com/phds/project/surveillance-detection-and-environmental-drivers-of-avian-influenza-like-viruses-in-african-birds/?p156506)
 
-## 16. Ancient Zoo: Parasite diversity and zoonosis events in ancient Britain.
+## 16. Ancient Zoo: Parasite diversity and zoonotic events in ancient Britain.
 
 Supervised by Dr. David Stanton (School of Biosciences, Cardiff University) and co-supervised by Dr. Richard Madgwick (School of Archaeology CU), Dr. Sarah Perkins (Biosciences, CU), and Dr. Iain Chalmers (Department of Life Sciences, Aberystwyth University). Dr. Selina Brace (Natural History Museum, London, Earth Sciences) is the stakeholder partner. The student will be based in Cardiff University. For more information, contact Dr. David Stanton email: stantondw@cardiff.ac.uk
 
@@ -124,7 +124,7 @@ More details see FindaPhD
 
 Supervised by Prof Christopher Jones (School of Computer Science and Informatics, Cardiff University,) and co-supervised by Dr. Sarah Perkins (School of Biosciences, Cardiff University) and Dr. James Rudge (LSHTM). Laurence Livermore will act as the stakeholder supervisor for The Natural History Museum (NHM), London. The student will be base at CU. For more information, contact Prof Christopher Jones email: JonesCB2@cardiff.ac.uk
 
-More details see FindaPhD
+[More details see FindaPhD](https://www.findaphd.com/phds/project/predicting-zoonotic-disease-dynamics-from-digital-archive-records/?p156718)
 
 ## 20. An ecological approach to zoonotic parasite invasion into the UK through pet movement and climate change.
 
@@ -136,4 +136,4 @@ Supervised by Prof Eric Morgan (School of Biological Sciences, QUB) and co-super
 
 Supervised by Dr Mike Scantlebury (School of Biological Sciences, QUB) and co-supervised by Prof Nikki Marks (School of Biological Sciences, QUB), Prof Darrell Abernethy (Head & chair of School of Veterinary Science, Aberystwyth University), Dr Craig Tambling (Head of Department, Department of Zoology & Entomology, Fort Hare University), Dr Catherine Hambly (University of Aberdeen, School of Biological Sciences). Stakeholder partners are the East Cape Parks and Tourist Agency. The student will be based at QUB. For more information, contact Dr Mike Scantlebury email: m.scantlebury@qub.ac.uk
 
-More details see FindaPhD
+[More details see FindaPhD](https://www.findaphd.com/phds/project/linking-buffalo-behaviour-and-movement-ecology-with-risks-of-zoonotic-disease-transfer-between-contiguous-domestic-animals-and-human-populations/?p156528)
