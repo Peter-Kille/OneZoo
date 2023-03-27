@@ -2,7 +2,7 @@
 title-block-style: default
 title-block-banner: darkred
 title: "Projects Avalible for Entry 2023"
-subtitle: "Projecst 2023"
+subtitle: "Projects 2023"
 author: "Professor J. Cable"
 date: today
 affiliation: "Cardiff University"
