@@ -12,7 +12,7 @@ affiliation: "Cardiff University"
 
 Interviews are currently ongoing
 
-# Student Applications are now Open for entry 2023
+# Student Applications are now closed for entry 2023
 
 For all details of how to apply and more information see [student faqs](student_app.qmd), for available projects see [Project 2023](projects_2023.qmd).
 
