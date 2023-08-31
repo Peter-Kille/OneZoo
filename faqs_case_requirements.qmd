@@ -1,6 +1,7 @@
 ---
 title-block-style: default
 title-block-banner: darkred
+title-block-banner-color: white
 title: "UKRI CASE Requirements"
 subtitle: "UKRI CASE Requirements "
 author: "Professor J. Cable"

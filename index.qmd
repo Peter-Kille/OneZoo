@@ -1,6 +1,7 @@
 ---
 title-block-style: default
 title-block-banner: darkred
+title-block-banner-color: white
 title: "UKRI Centre for Doctoral Training - OneZoo CDT"
 subtitle: "A NERC, BBSRC and MRC Centre for Doctoral Training on the Environmental Drivers of, and Solutions to, Zoonoses"
 author: "Professor J. Cable"
