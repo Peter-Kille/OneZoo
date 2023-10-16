@@ -11,13 +11,15 @@ affiliation: "Cardiff University"
 
 ![](images/Funders.png)UKRI Centre for Doctoral Training - CDT OneZoo
 
-                                                            [Partner Address Line 1]
+```         
+                                                        [Partner Address Line 1]
 
-                                                            [Address Line 2]
+                                                        [Address Line 2]
 
-                                                            [Address Line 3]
+                                                        [Address Line 3]
 
-                                                            [Postcode]
+                                                        [Postcode]
+```
 
 Date: DD/MM/YYYY
 
