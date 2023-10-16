@@ -2,7 +2,7 @@
 title-block-style: default
 title-block-banner: darkred
 title-block-banner-color: white
-title: "2023 Project Call"
+title: "2024 Project Call"
 subtitle: "CDT OneZoo FAQs for Supervisors"
 author: "Professor J. Cable"
 date: today
@@ -27,72 +27,75 @@ affiliation: "Cardiff University"
 
 # 1.HOW MANY STUDENTSHIPS ARE AVAILABLE?
 
-Up to 20 studentships are available for October 2023. The NERC/BBSRC/MRC awarded 16 notional studentships to the CDT and the four academic institutions are contributing additional funds to uplift this number to 20. We anticipate similar numbers of students in Years two and three.
+Up to 20 studentships are available for October 2024. The NERC/BBSRC/MRC have awarded 16 notional studentships to the CDT and the four academic institutions are contributing additional funds to uplift this number to 20. We anticipate similar numbers of students in Year three.
 
 # 2.HOW DO I SUBMIT A PROJECT PROPOSAL?
 
-Zoonoses project proposals  **for entry 2023 is now closed - this will reopen for later this year for projects to start sept 2024** 
+Zoonoses project proposals **for entry 2024 must be submitted no later than 01/01/2024**.
 
-Once the application deadline has passed, a project selection panel comprised of at least one representative from each institution will first score then jointly scrutinise projects and select the top 40 for advertisement. **You will be informed of the outcome of this process by the end of March.**
+Projects submitted and selected for the 2023 entry which did not have a suitable candidate identified can readvertise their projects for 2024 entry. 
 
-Only proposals submitted via the online survey by the deadline will be considered. The online survey form cannot be shared, so we advise you to save a version of your answers e.g. in a Word doc, to facilitate collaboration with your team and also in the event the online survey crashes whilst you are completing it. You will be able to save and revise your proposal online before the deadline, but once it is submitted it cannot be amended. If you need to revise your form you must submit a new one and advise us to delete the original, but this cannot be done after the deadline has passed.
+Once the application deadline has passed, a project selection panel comprised of at least one representative from each institution will first score then jointly scrutinise projects and select the top 40 for advertisement. **You will be informed of the outcome of this process by mid-January**.
+
+Only proposals submitted via the online survey by the deadline will be considered. The online survey form cannot be shared, so we advise you to save a version of your answers e.g. in a Word doc, to facilitate collaboration with your team and also in the event the online survey crashes whilst you are completing it. You will be able to save and revise your proposal online before the deadline, but once it is submitted it cannot be amended. If you need to revise your form you must submit a new one and advise us to delete the original, but this cannot be done after the deadline has passed. Diversity, Equity and Inclusion (DEI) information will be sought from supervisors on an individual basis once projects have been submitted.
 
 Please note that after the selection process has taken place, **there will be no appeals against decisions**. Please therefore familiarise yourself with the aims and themes of the CDT and **ensure you read this FAQ document before completing your proposal.**
 
 ***Please ensure you have approval from your home institution to submit your project.***
+
 
 # 3. WHAT ARE THE KEY DATES FOR THE RECRUITMENT PROCESS?
 
 **(Timetable is very preliminary and subject to change. Supervisor actions in bold)**
 
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | ASAP                           |       | Call for Projects opens                                                                                          |       |
+|       | 16/10/2023                     |       | Call for Projects opens                                                                                          |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | **12:00pm (noon) 28 Feb 2023** |       | **Supervisor project proposal submission deadline**                                                              |       |
+|       | **12:00pm (noon) 1 Jan 2024**  |       | **Supervisor project proposal submission deadline**                                                              |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       |                                |       | **Supervisors notified of CDT panel selection of projects**                                                      |       |
+|       |  January 2024                  |       | **Supervisors notified of CDT panel selection of projects**                                                      |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | March 2023                     |       | Projects advertised on CDT website                                                                               |       |
+|       | January 2024                   |       | Projects advertised on CDT website                                                                               |       |
 |       |                                |       |                                                                                                                  |       |
 |       |                                |       | Advertise externally on FindaPhD.com                                                                             |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | March 2023                     |       | Student applications open                                                                                        |       |
+|       | January 2024                   |       | Student applications open                                                                                        |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | 1 May 2023                     |       | Student applications close                                                                                       |       |
+|       | March 2024                     |       | Student applications close                                                                                       |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | May 2023                       |       | Applications forwarded to Lead Supervisors. Supervisors select which of their candidates they wish to interview. |       |
+|       | March 2024                     |       | Applications forwarded to Lead Supervisors. Supervisors select which of their candidates they wish to interview. |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | **May 2023**                   |       | **Applicant/supervisor interviews**                                                                              |       |
+|       | **March/April 2024**           |       | **Applicant/supervisor interviews**                                                                              |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | **End May 2023**               |       | **Supervisor submits report to CDT outlining first choice and reserve choice candidates**                        |       |
+|       | **April 2024**                |       | **Supervisor submits report to CDT outlining first choice and reserve choice candidates**                        |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | June 2023                      |       | Management Board scores shortlist of preferred candidates                                                        |       |
+|       | May 2024                       |       | Management Board scores shortlist of preferred candidates                                                        |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | June 2023                      |       | Interviewees notified                                                                                            |       |
+|       | May 2024                       |       | Interviewees notified                                                                                            |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | Mid June 2023                  |       | Selection board interviews candidates                                                                            |       |
+|       | May 2024                       |       | Selection board interviews candidates                                                                            |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
@@ -100,14 +103,14 @@ Please note that after the selection process has taken place, **there will be no
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
-|       | 1 October 2023                 |       | Official funding start date                                                                                      |       |
+|       | 1 October 2024                 |       | Official funding start date                                                                                      |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 |       |                                |       |                                                                                                                  |       |
 +-------+--------------------------------+-------+------------------------------------------------------------------------------------------------------------------+-------+
 
 # 4.DO I HAVE TO APPLY THIS YEAR? CAN I APPLY EVERY YEAR?
 
-\*\* The CDT is funded for three consecutive intakes, this is the first intake. Depending on the number of projects submitted, we might limit the number of projects that can be submitted by lead supervisors in Years two and three. Supervisors can be co-supervisors on an unlimited number of projects in all years.
+\*\* The CDT is funded for three consecutive intakes, this is the second intake. Depending on the number of projects submitted, we might limit the number of projects that can be submitted by lead supervisors in Year three. Supervisors can be co-supervisors on an unlimited number of projects in all years.
 
 # 5.IF UNSUCESSFUL, WILL I BE ALLOWED TO SUBMIT THE SAME PROJECT PROPOSAL NEXT YEAR?
 
@@ -127,7 +130,7 @@ Interdisciplinary research is [strongly]{.underline} encouraged.
 
 # 7. HOW MANY SUPERVISORS CAN BE ON THE PROPOSAL?
 
-There is no maximum number of supervisors. The application form allows space for up to four, so please use those spaces to identify the main supervisory staff and include the remainder as a project team in the later sections. Those listed as co-supervisors will be required to have a greater level of involvement in the student's progression monitoring and research training than would be the case in a non-CDT studentship. Less experienced supervisory teams may include an experienced supervisor to act in a 'mentoring' role, this is [strongly]{.underline} encouraged. Also, we encourage ECR to be part of the supervisory team so that they can be trained as PhD supervisors. Please note: projects that require use of specialist resources or techniques should include a relevant supervisor in the team.
+There is no maximum number of supervisors. For supervisors on fixed term contracts, at least one of the supervisory team should have a contract lasting the full term of the studentship (3.5 years full time or 7 years part time). The application form allows space for up to four, so please use those spaces to identify the main supervisory staff and include the remainder as a project team in the later sections. Those listed as co-supervisors will be required to have a greater level of involvement in the student’s progression monitoring and research training than would be the case in a non-CDT studentship. Less experienced supervisory teams may include an experienced supervisor to act in a ‘mentoring’ role, this is **strongly** encouraged. Also, we encourage ECR to be part of the supervisory team so that they can be trained as PhD supervisors. Please note: projects that require use of specialist resources or techniques should include a relevant supervisor in the team.
 
 # 8. HOW WILL THE CDT CORRESPOND WITH THE SUPERVISORY TEAM?
 
@@ -165,19 +168,21 @@ At [Annex B](faqs_annex_b.qmd) is a template for a CASE letter of support from s
 
 # 13. WHAT IS COVERED BY THE STUDENTSHIP?
 
-Most of the studentships will be of 3.5 years' duration. Our award has been calculated on this basis. Applications for a longer duration will be considered on a case-by-case basis, as the grant allows for flexibility.
+Full-time studentships will be of 3.5 years’ duration and part-time will be of 7 years duration. Supervisors can indicate on their project submission form whether they feel the project is compatible with part-time working patterns. Our award has been calculated on this basis. Applications for a longer duration will be considered on a case-by-case basis, as the grant allows for flexibility.
 
 The elements of the studentship are: fees (UK/EU rate); UKRI national minimum stipend; and RTSG.
 
 Please note: the funding is linked to the successful student. If the student withdraws at any stage, the funding will be re-allocated by the Management Board to the next best ranked student on the list. Therefore, supervisors will not automatically be able to re-advertise their project for a new student.
 
+
 # 14. WHAT FUNDING IS AVAILABLE FOR PROJECT COSTS -- E.G. CONSUMABLES, TRAVEL, CONFERENCES?
 
-Each studentship will include an RTSG ([Research Training Support Grant]{.underline}) as a contribution toward basic consumables and training. NERC notionally allocates £11,000 per student.
-
-As set out in the bid, the OneZoo CDT is offering 3.5 year studentships, with the first 12 months involving cohort training. The CDT will therefore retain and centrally manage £2,750 of each student's RTSG to help cover their cohort training expenses.
+Each studentship will include an RTSG **(Research Training Support Grant)** as a contribution toward basic consumables and training. NERC notionally allocates £11,000 per student
+.
+As set out in the bid, the OneZoo CDT is offering 3.5 year full-time and 7 year part-time studentships, with the first 12 months involving cohort training no matter the mode of attendance (full or part time). The CDT will therefore retain and centrally manage £2,750 of each student’s RTSG to help cover their cohort training expenses.
 
 The remaining fund of £8,250 per student is a contribution towards the research, training and development costs of the student, *over the lifetime of the project*. Project proposals should outline how the research costs will be met whilst leaving sufficient funds for activities such as conference attendance, overseas opportunities, workshops, advanced training and travel to development opportunities etc.
+
 
 ***Note that there are specific rules governing the use of RTSG funds, which cannot be used to purchase consumables or equipment which would normally be expected to be provided by the institution.*** **The RTSG can be used for the purchase of laptops, or as a contribution towards the cost of a laptop, if standard provision is not considered adequate.**\*
 
@@ -233,19 +238,11 @@ Students will need to meet the English Language requirements of their home insti
 
 # 23. HOW WILL CANDIDATES APPLY?
 
-The CDT application process aims to select the best applicants and will make an 'offer of funding'. The host institution will be responsible for checking eligibility and making an 'offer to study'. The process for applying will be made clear on the advertisements.
+The CDT application process aims to select the best applicants and will make an ‘offer of funding’. The host institution will be responsible for checking eligibility and making an ‘offer to study’. The process for applying will be made clear on the advertisements, but offer of study will be applied for after the offer of funding from the OneZoo CDT.
 
-Applicants will apply via a centralised online application form direct to the CDT (OneZoo.uk). After the closing deadline all application forms will be forwarded to the Lead Supervisor of the projects to which the student applied, for shortlisting.
+Applicants will apply via a centralised online application form direct to the CDT [www.OneZoo.uk](www.OneZoo.uk). After the closing deadline all application forms will be forwarded to the Lead Supervisor of the projects to which the student applied, where supervisors will need to contact and meet (face-to-face or virtually) with potential candidates, to aid with shortlisting of students for interviews by the OneZoo management board.
 
-The application to the CDT is for an 'offer of funding'. In addition, students must apply simultaneously for an 'offer to study' (i.e. for a 'place' at or admission to the 'home' university of their primary academic supervisor, through the University's Online application form, dependent on institutional practices).
-
-Cardiff University: <https://www.cardiff.ac.uk/study/postgraduate/research/programmes/programme/biosciences-phd-mphil-md>
-
-Aberystwyth: [https://courses.aber.ac.uk/postgraduate/research-ibers/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcourses.aber.ac.uk%2Fpostgraduate%2Fresearch-ibers%2F&data=05%7C01%7CCableJ%40cardiff.ac.uk%7C0fb8d46b430549378e1008daf57b62bf%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C638092207533723292%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=be9pdtt0QrjueGSKMns0j1kZ5UccQMZanhoyhFfeKc8%3D&reserved=0 "Original URL: https://courses.aber.ac.uk/postgraduate/research-ibers/Click to follow link.")
-
-Queen's Mary Belfast: [https://dap.qub.ac.uk/portal/user/u_login.php](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdap.qub.ac.uk%2Fportal%2Fuser%2Fu_login.php&data=05%7C01%7CCableJ%40cardiff.ac.uk%7C9bba283d0bd74236ca2708daf8989369%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C638095631997668649%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=S8fZoTSYjVuwXvHhr8Rv5h9JowMn7vrpWTNFAcF%2BHJU%3D&reserved=0 "Original URL: https://dap.qub.ac.uk/portal/user/u_login.php Click to follow link.")
-
-LSHTM: [LSHTM Applicant Portal](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapply.lshtm.ac.uk%2Flogin&data=05%7C01%7Ccablej%40cardiff.ac.uk%7Cc54e2be091264642d13708db007980d3%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C638104294065523620%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KopUEHuimMlB%2FArmykGaP1q0vvWKz9Jd0zqxRqVTVJQ%3D&reserved=0 "Original URL: https://apply.lshtm.ac.uk/login Click to follow link.")
+The application to the CDT is for an ‘offer of funding’ from OneZoo. Once all interviews have been held and candidates identified the application for an Offer of Study will need to be made to the home institution. 
 
 # 24. HOW WILL STUDENTS BE SELECTED?
 
@@ -303,7 +300,7 @@ Please contact the CDT Manager in the first instance at [OneZoo\@cardiff.ac.uk](
 +-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
 |       |                          |       |                                               |       |                                                      |       |
 +-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
-|       | Sian Clarke              |       | **LSHTM** Co-director                         |       | Sian.Clarke\@lshtm.ac.uk                             |       |
+|       | Sian Clarke/Rob Moon     |       | **LSHTM** Co-directors                        |       | Sian.Clarke\@lshtm.ac.uk and rob.moon\@lshtm.ac.uk   |       |
 +-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
 |       |                          |       |                                               |       |                                                      |       |
 +-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
@@ -319,7 +316,13 @@ Please contact the CDT Manager in the first instance at [OneZoo\@cardiff.ac.uk](
 +-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
 |       |                          |       |                                               |       |                                                      |       |
 +-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
-|       | TBA                      |       | **CDT Manager**                               |       | [OneZoo\@cardiff.ac.uk](mailto:OneZoo@cardiff.ac.uk) |       |
+|       | Beth Mansfield           |       | **CDT Manager**                               |       | mansfieldb\@cardiff.ac.uk                            |       |
+|       |                          |       |                                               |       | [OneZoo\@cardiff.ac.uk](mailto:OneZoo@cardiff.ac.uk) |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       |                          |       |                                               |       |                                                      |       |
++-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
+|       | Elis Arapi               |       | **CDT Senior Administrative Officer**         |       |arapie\@cardiff.ac.uk                                                      |       |
+|       |                          |       |                                               |       | [OneZoo\@cardiff.ac.uk](mailto:OneZoo@cardiff.ac.uk) |       |
 +-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+
 |       |                          |       |                                               |       |                                                      |       |
 +-------+--------------------------+-------+-----------------------------------------------+-------+------------------------------------------------------+-------+

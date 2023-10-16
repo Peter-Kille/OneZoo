@@ -10,10 +10,11 @@ website:
       - section: "Team"
         contents:
           - team.qmd
-      - section: "Student applications 2023"
+      - section: "Project Applications 2024"
         contents:
-          - projects_2023.qmd 
-          - student_app.qmd 
+          - faqs.qmd 
+          - faqs_annex_a.qmd 
+          - faqs_annex_b.qmd
 format:
   html:
     theme: cosmo

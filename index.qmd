@@ -11,9 +11,9 @@ affiliation: "Cardiff University"
 
 ![](images/Funders.png)
 
-# Student Applications are now closed for entry 2023
+# Project Call 2024 Now open - deadline 1st Jan 2024
 
-For all details of how to apply and more information see [student faqs](student_app.qmd), for available projects see [Project 2023](projects_2023.qmd).
+For all details of how to apply and more information see [project faqs](faqs.qmd). Link for applications [CDT Applications 2024](https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2024).
 
 # Introduction to OneZoo CDT
 
@@ -25,9 +25,9 @@ Up to 20 studentships are available for October 2023. The NERC/BBSRC/MRC awarded
 
 # HOW DO I SUBMIT A PROJECT PROPOSAL?
 
-Zoonoses project proposals must be submitted by Noon on Friday 28th February 2023 using the online survey:
+Zoonoses project proposals must be submitted by Noon on 1st January 2024 using the online survey:
 
-https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2023 Once the application deadline has passed, a project selection panel comprised of at least one representative from each institution will first score then jointly scrutinise projects and select the top 40 for advertisement. You will be informed of the outcome of this process by the end of March.
+[CDT Applications 2024](https://cardiff.onlinesurveys.ac.uk/onezoo-cdt-supervisor-project-proposals-2024) Once the application deadline has passed, a project selection panel comprised of at least one representative from each institution will first score then jointly scrutinise projects and select the top 40 for advertisement. You will be informed of the outcome of this process by the end of March.
 
 For further guidance please read our FAQs document
 
